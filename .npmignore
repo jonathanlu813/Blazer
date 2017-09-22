@@ -16,6 +16,7 @@ content/logs/**
 !content/logs/README.md
 content/themes/**
 !content/themes/casper/**
+!content/themes/blazerium/**
 node_modules/**
 **/*.db*
 *.db*
