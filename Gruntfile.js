@@ -61,7 +61,9 @@ var overrides      = require('./core/server/overrides'),
                 livereload: {
                     files: [
                         'content/themes/casper/assets/css/*.css',
-                        'content/themes/casper/assets/js/*.js'
+                        'content/themes/casper/assets/js/*.js',
+                        'content/themes/blazerium/assets/css/*.css',
+                        'content/themes/blazerium/assets/js/*.js'
                     ],
                     options: {
                         livereload: true
