@@ -17,6 +17,8 @@ content/logs/**
 content/themes/**
 !content/themes/casper/**
 !content/themes/blazerium/**
+content/themes/casper/node_modules/**
+content/themes/blazerium/node_modules/**
 node_modules/**
 **/*.db*
 *.db*
