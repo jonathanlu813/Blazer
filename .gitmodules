@@ -7,3 +7,6 @@
 [submodule "core/client"]
 	path = core/client
 	url = https://github.com/jonathanlu813/Blazer-Admin.git
+[submodule "content/adapters/storage/s3"]
+	path = content/adapters/storage/s3
+	url = https://github.com/jonathanlu813/ghost-storage-adapter-s3.git

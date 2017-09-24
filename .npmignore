@@ -4,8 +4,6 @@
 .tmp
 docs/**
 _site/**
-content/adapters/**
-!content/adapters/README.md
 content/apps/**
 !content/apps/README.md
 content/data/**
